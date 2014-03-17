@@ -9,7 +9,7 @@
   "main": "./index",
   "dependencies": {
     "promise": ">=3.2.0",
-    "request": ">=2.33.0",
+    "request": "git@github.com:xhawk/request.git",
     "underscore": ">=1.4.3",
     "xmldoc": ">=0.1.2"
   },
